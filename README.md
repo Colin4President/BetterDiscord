@@ -2,11 +2,7 @@ Custom game data by katerhub
 
 # Downloads
 ```
-https://raw.githubusercontent.com/Colin4President/Custom-Game-Data/main/mods/LETHAL-COMPANY-MODS.zip
-https://raw.githubusercontent.com/Colin4President/Custom-Game-Data/main/mods/Addons.zip
+https://github.com/Colin4President/mods/raw/main/Lethal%20Company/PACK-1.zip
 
-https://raw.githubusercontent.com/Colin4President/Custom-Game-Data/main/online-fix/LETHAL-COMPANY-FIX.zip
-
---- LETHAL-COMPANY
 ```
 @katerhub
